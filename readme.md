@@ -17,7 +17,7 @@
 3.	Убедитесь, что у вас есть файл .env в корне проекта:
 
 Пример .env
-
+```bash
 # AUTH
 JWT_SECRET=secret
 EXPIRE_TOKEN=9999999h
